@@ -118,7 +118,7 @@ const Page: React.FC = () => {
       <div className={`${styles.animal} ${styles[animalState]}`}></div>
       <audio id="beep" ref={audioRef} src="https://raw.githubusercontent.com/freeCodeCamp/cdn/master/build/testable-projects-fcc/audio/BeepSound.wav" />
       <footer className={styles.footer}>
-      Created by <a href="https://github.com/wweziza/25+5-clock" target="_blank" rel="noopener noreferrer">weziza</a>
+      Created by <a href="https://github.com/wweziza/25-5-clock" target="_blank" rel="noopener noreferrer">weziza</a>
       </footer>
     </div>
   );
